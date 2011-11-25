@@ -40,6 +40,7 @@ Please go to: <a href="http://reducedebtplugin.wordpress.com">http://reducedebtp
 == Screenshots ==
 
 1. ReduceDebtScreen.png
+2. ChartBadgeScreen.jpg
 
 == Changelog ==
 
