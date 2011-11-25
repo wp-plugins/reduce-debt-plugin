@@ -10,7 +10,7 @@ Mobilize your BuddyPress network to reduce debt. This plugin allows BuddyPress u
 
 == Description ==
 
-Mobilize your BuddyPress network to reduce debt. This plugin allows BuddyPress users to input their loan amounts in order to chart their progress, receive Encourages from friends, earn Awards, receive monthly reminders to update their loan amounts, and determine their Debt Independence Day. No personal information is required except 'loan name' and 'loan amount'. There is no plugin admin page. 
+<img src="http://reducedebtplugin.files.wordpress.com/2011/11/reducedebtscreen.png"><br>Mobilize your BuddyPress network to reduce debt. This plugin allows BuddyPress users to input their loan amounts in order to chart their progress, receive Encourages from friends, earn Awards, receive monthly reminders to update their loan amounts, and determine their Debt Independence Day. No personal information is required except 'loan name' and 'loan amount'. There is no plugin admin page. 
 
 
 == Installation ==
@@ -33,10 +33,13 @@ This plugin only requires 'loan name' and 'loan amount'.
 
 This plugin requires that the globals allow_url_fopen and allow_url_include to be turned on.  In the download, a php.ini file is included to ensure the plugin folder turns those globals on.
 
+= Where can I learn more? =
+
+Please go to: <a href="http://reducedebtplugin.wordpress.com">http://reducedebtplugin.wordpress.com</a>
 
 == Screenshots ==
 
-1. http://reducedebtplugin.wordpress.com/2011/11/25/what-does-this-plugin-look-like/
+1. ReduceDebtScreen.png
 
 == Changelog ==
 
