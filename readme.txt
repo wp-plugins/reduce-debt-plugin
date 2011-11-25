@@ -4,7 +4,7 @@ Donate link: http://reducedebtplugin.wordpress.com
 Tags: reduce, debt, encourage, independence, buddypress
 Requires at least: 3.2.1
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.01
 
 Mobilize your BuddyPress network to reduce debt. This plugin allows BuddyPress users to input their loan amounts in order to chart their progress. 
 
