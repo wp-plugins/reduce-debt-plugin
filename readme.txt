@@ -47,4 +47,7 @@ Please go to: <a href="http://reducedebtplugin.wordpress.com">http://reducedebtp
 = 1.0 =
 * Established working copy.
 
+= 1.01 =
+* Edit readme.txt
+
 
