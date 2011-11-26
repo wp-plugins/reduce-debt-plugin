@@ -44,10 +44,12 @@ Please go to: <a href="http://reducedebtplugin.wordpress.com">http://reducedebtp
 
 == Changelog ==
 
+= 1.01 =
+* Edit readme.txt
+
 = 1.0 =
 * Established working copy.
 
-= 1.01 =
-* Edit readme.txt
+
 
 
